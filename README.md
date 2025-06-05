@@ -25,7 +25,7 @@ For the purpose of gaining bonus points, I have made the function **comments**, 
 
 I have also created a simple **authentication** with JWT, just to make it like a production API.
 
-> If you wish to test with postman, I will leave a lin to download my collection already configured. [**CodeShare's repo**](https://drive.google.com/drive/folders/1SrguPPkMjkyHvAV4PK5Jw9JWPR1ML6Fv?usp=sharing)
+> If you wish to test with postman, I will leave a lin to download my collection already configured. [**Drive repo**](https://drive.google.com/drive/folders/1SrguPPkMjkyHvAV4PK5Jw9JWPR1ML6Fv?usp=sharing)
 
 ## 💪 Difficulties overcome
 
