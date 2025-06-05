@@ -6,7 +6,7 @@
 
 ## 🔎 Overview
 
-**project_codeleap** is an application that performs CRUD functions and it was developed as a code test for a **Junior Frontend** position at [**CodeLeap**](https://codeleap.co.uk/).
+**project_codeleap** is an application that performs CRUD functions and it was developed as a code test for a **Junior Backend** position at [**CodeLeap**](https://codeleap.co.uk/).
 
 The design of this application is available [in this link.](https://www.figma.com/design/0OQWLQmU14SF2cDhHPJ2sx/CodeLeap-Engineering-Test?node-id=33054-16&t=Cfd1CyqkJrJo84XO-0)
 
