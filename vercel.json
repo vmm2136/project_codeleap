@@ -1,13 +1,13 @@
 {
     "builds": [{
-        "src": "project_codeLeap/wsgi.py",
+        "src": "careers/wsgi.py",
         "use": "@vercel/python",
         "config": { "maxLambdaSize": "15mb", "runtime": "python3.9" }
     }],
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "project_codeLeap/wsgi.py"
+            "dest": "careers/wsgi.py"
         }
     ]
 }
