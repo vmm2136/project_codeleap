@@ -1,0 +1,5 @@
+Django>=4.0
+gunicorn
+whitenoise
+psycopg2-binary  # para usar o PostgreSQL
+dj-database-url  # para configurar a URL do banco de dados
